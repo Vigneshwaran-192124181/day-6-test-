@@ -1,0 +1,56 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:/Users/sse/AppData/Local/Programs/Python/Python37-32/56yu677u6.py 
+Enter a number of rows:0
+Enter the row number:-1
+INVALID INPUT
+>>> 
+ RESTART: C:/Users/sse/AppData/Local/Programs/Python/Python37-32/56yu677u6.py 
+Enter a number of rows:7
+Enter the row number:5
+        1 
+       1 1 
+      1 2 1 
+     1 3 3 1 
+    1 4 6 4 1 
+   1 5 10 10 5 1 
+  1 6 15 20 15 6 1 
+Sum of elements in 4th row: 16
+>>> 
+ RESTART: C:/Users/sse/AppData/Local/Programs/Python/Python37-32/56yu677u6.py 
+Enter a number of rows:-1
+Enter the row number:5
+INVALID INPUT
+>>> 
+ RESTART: C:/Users/sse/AppData/Local/Programs/Python/Python37-32/56yu677u6.py 
+Enter a number of rows:9
+Enter the row number:-5
+          1 
+         1 1 
+        1 2 1 
+       1 3 3 1 
+      1 4 6 4 1 
+     1 5 10 10 5 1 
+    1 6 15 20 15 6 1 
+   1 7 21 35 35 21 7 1 
+  1 8 28 56 70 56 28 8 1 
+INVALID INPUT
+>>> 
+ RESTART: C:/Users/sse/AppData/Local/Programs/Python/Python37-32/56yu677u6.py 
+Enter a number of rows:10
+Enter the row number:8
+           1 
+          1 1 
+         1 2 1 
+        1 3 3 1 
+       1 4 6 4 1 
+      1 5 10 10 5 1 
+     1 6 15 20 15 6 1 
+    1 7 21 35 35 21 7 1 
+   1 8 28 56 70 56 28 8 1 
+  1 9 36 84 126 126 84 36 9 1 
+Sum of elements in 4th row: 128
+>>> 
+ RESTART: C:/Users/sse/AppData/Local/Programs/Python/Python37-32/56yu677u6.py 
+Enter a number of rows:
